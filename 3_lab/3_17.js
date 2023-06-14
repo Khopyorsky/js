@@ -1,4 +1,4 @@
-month = 12
+month = 12;
 if (month == 12 || month <= 2) {
     alert('Winter');
 } else if (month <= 5) {
